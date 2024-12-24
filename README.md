@@ -1,6 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vedant Patil
-====================================================================================================================================
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=P-Vedant.P-Vedant" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fredoka+One&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Vedant+Patil!;&color=ADD8E6" />
+</h1>
+
+
+  
+</h1>
 <br><br>
 <div align="center">
   <img alt="Coding" width="500" src="https://cdn.dribbble.com/users/49803/screenshots/3552425/breathe.gif" style="margin-bottom: 20px;">
@@ -102,6 +108,12 @@ Patience is the key to clarity, and more importantly, the key to becoming a more
     <li>
      <a href="https://www.youtube.com/watch?v=onUx22pgiBM&ab_channel=TobiTacklesTech" target="_blank" rel="noreferrer">
         Vid
+      </a>
+    </li>
+    <li>
+      <li>
+     <a href="https://www.youtube.com/watch?v=eHaXw8Bd_ms&ab_channel=CodeCraft" target="_blank" rel="noreferrer">
+        Vid 2
       </a>
     </li>
     <li>
