@@ -67,6 +67,16 @@ Patience is the key to clarity, and more importantly, the key to becoming a more
   <a href="http://www.github.com/P-Vedant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=P-Vedant&stroke=64748b&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 </p>
 
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P-Vedant/P-Vedant/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P-Vedant/P-Vedant/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/P-Vedant/P-Vedant/output/github-snake.svg" />
+</picture>
+
 <p align="center">
   <img src="https://media.tenor.com/lzr0TJ9C31IAAAAd/breathe-in-breathe-out-breathe.gif" alt="Breathe In Breathe Out" width="1600">
 </p>
@@ -89,6 +99,11 @@ Patience is the key to clarity, and more importantly, the key to becoming a more
         GIF 2
       </a>
     </li>
+     <li>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        Vid
+      </a>
+    </li>
     <li>
       <a href="https://reactjs.org/](https://media.tenor.com/lzr0TJ9C31IAAAAd/breathe-in-breathe-out-breathe.gif" target="_blank" rel="noreferrer">
        GIF 3
@@ -101,3 +116,5 @@ Patience is the key to clarity, and more importantly, the key to becoming a more
     </li>
   </ul>
 </div>
+
+
