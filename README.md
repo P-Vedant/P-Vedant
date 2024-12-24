@@ -100,7 +100,7 @@ Patience is the key to clarity, and more importantly, the key to becoming a more
       </a>
     </li>
     <li>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+     <a href="https://www.youtube.com/watch?v=onUx22pgiBM&ab_channel=TobiTacklesTech" target="_blank" rel="noreferrer">
         Vid
       </a>
     </li>
