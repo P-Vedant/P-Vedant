@@ -33,5 +33,3 @@ Breathe in. Hold. Breathe out. Patience is the key to clarity, and more importan
 <a href="http://www.github.com/P-Vedant"><img src="https://github-readme-stats.vercel.app/api?username=P-Vedant&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="P-Vedant's GitHub stats" /></a>
 
 <a href="http://www.github.com/P-Vedant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=P-Vedant&stroke=64748b&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="http://www.github.com/P-Vedant"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=P-Vedant&bg_color=0f172a&color=64748b&line=0891b2&point=64748b&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
