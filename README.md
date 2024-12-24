@@ -17,8 +17,10 @@
 <br><br>
 Patience is the key to clarity, and more importantly, the key to becoming a more developed programmer. Coding with success feels just like that moment of clarity, a space where chaos transforms into order with patience, one logical step at a time.
 
+ <br><br>
 Hi There!!! I am a high school student passionate about turning my curious mind into reality through code, at least for me. For me, programming serves to be more than writing an unknown syntax, rather, it's an exercise to demonstrate your patience, problem-solving, and balance. Every bug serves to be a lesson, and my goal is to take those lessons and improve every single day. I've discovered that just as taking deep breaths helps people stay grounded, stepping back and approaching programming with patience leads to thoughtful solutions. Always Remember, it's the mindset that drives one to explore, learn, build, and ultimately pursue their passion.
 
+<br><br>
 
 * 🌍  I'm based in Chicago, IL
 * 🖥️  See my portfolio at [In progress](http://VP.com)
