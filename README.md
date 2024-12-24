@@ -90,31 +90,32 @@ Patience is the key to clarity, and more importantly, the key to becoming a more
 <div align="center">
   <ul>
     <li>
-      <a href="https://www.python.org/](https://cdn.dribbble.com/users/49803/screenshots/3552425/breathe.gif" target="_blank" rel="noreferrer">
-         GIF 1
+      <a href="https://cdn.dribbble.com/users/49803/screenshots/3552425/breathe.gif" target="_blank" rel="noreferrer">
+        GIF 1
       </a>
     </li>
     <li>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://alexandraheller.com/wp-content/uploads/2021/02/4_7_8_w_precopose.gif" target="_blank" rel="noreferrer">
+      <a href="https://alexandraheller.com/wp-content/uploads/2021/02/4_7_8_w_precopose.gif" target="_blank" rel="noreferrer">
         GIF 2
       </a>
     </li>
-     <li>
+    <li>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         Vid
       </a>
     </li>
     <li>
-      <a href="https://reactjs.org/](https://media.tenor.com/lzr0TJ9C31IAAAAd/breathe-in-breathe-out-breathe.gif" target="_blank" rel="noreferrer">
-       GIF 3
+      <a href="https://media.tenor.com/lzr0TJ9C31IAAAAd/breathe-in-breathe-out-breathe.gif" target="_blank" rel="noreferrer">
+        GIF 3
       </a>
     </li>
     <li>
-      <a href="https://git-scm.com/](https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/09Engineering-670x375%402x.gif" target="_blank" rel="noreferrer">
-       GIF 4
+      <a href="https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/09Engineering-670x375%402x.gif" target="_blank" rel="noreferrer">
+        GIF 4
       </a>
     </li>
   </ul>
 </div>
+
 
 
