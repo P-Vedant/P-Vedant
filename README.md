@@ -34,7 +34,7 @@ Hi There!!! I am a high school student passionate about turning my curious mind 
   <img src="https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/09Engineering-670x375%402x.gif" alt="Engineering GIF" width="500">
 </p>
 <br><br>
-<h3 align="center">Skills</h3>
+<h3 align="center">My Tech Stack:</h3>
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -55,7 +55,6 @@ Hi There!!! I am a high school student passionate about turning my curious mind 
   <a href="https://www.github.com/P-Vedant" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a>
   <a href="http://www.instagram.com/vedantcuhh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </a>
 </p>
-<h3 align="center">Badges</h3>
 <p align="center">
   <b>My GitHub Stats</b>
   <br>
