@@ -73,7 +73,7 @@ Hi There!!! I am a high school student passionate about turning my curious mind 
 </p>
 <h3 align="center">Sources</h3>
 <p align="center">
-  Below are some sources I used for learning and development. Check them out for more information:
+  I use a bunch of tutorials on youtube to help me learn, so when checking out my projects please make sure to check who I have tagged, and make sure to check them out as well. Below are some sources I used for learning and development. Check them out for more information:
 </p>
 <div align="center">
   <ul>
