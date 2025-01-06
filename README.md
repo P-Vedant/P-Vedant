@@ -23,11 +23,11 @@ Hi There!!! I am a high school student passionate about turning my curious mind 
 <br><br>
 
 * 🌍  I'm based in Chicago, IL
-* 🖥️  See my portfolio at [In progress](http://VP.com)
+* 🖥️  In the process of making my portfolio, and will be available soon at: [In progress](http://VP.com)
 * ✉️  You can contact me at [vedap2008@gmail.com](mailto:vedap2008@gmail.com)
-* 🚀  I'm currently working on [Volunteering App](http://VA.com)
-* 🧠  I'm learning Tensorflow
-* 🤝  I'm open to collaborating on any that I have listed language but look forward to Machine Learning/Tensorflow/AI projects.
+* 🚀  I'm currently working on [VolunSearch Web](https://github.com/P-Vedant/VolunSearch) 
+* 🧠  I'm learning and finishing Artificial Intelligence from Harvard CS50 and learning Tensorflow
+* 🤝  I'm open to collaborating on any project but look forward to Machine Learning/Tensorflow/AI projects.
 * ⚡  I'm secretly a wizard... but instead of a wand, I hold a keyboard. Debugging spells are still a work in progress, though. :(
 <br><br>
 <p align="center">
@@ -44,7 +44,6 @@ Hi There!!! I am a high school student passionate about turning my curious mind 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
