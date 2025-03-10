@@ -55,11 +55,11 @@ Hi There!!! I am a high school student passionate about turning my curious mind 
   <a href="http://www.instagram.com/vedantcuhh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </a>
 </p>
 <p align="center">
-  <b>My GitHub Stats</b>
+ 
   <br>
-  <a href="http://www.github.com/P-Vedant"><img src="https://github-readme-stats.vercel.app/api?username=P-Vedant&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="P-Vedant's GitHub stats" /></a>
+ 
   <br><br>
-  <a href="http://www.github.com/P-Vedant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=P-Vedant&stroke=64748b&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P-Vedant/P-Vedant/output/github-snake-dark.svg" />
